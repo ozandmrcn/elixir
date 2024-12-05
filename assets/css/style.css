@@ -204,7 +204,7 @@ img {
 
 .service:hover h5,
 .service:hover p {
-  color: white;
+  color: white !important;
 }
 
 .service:hover .iconbox {
@@ -361,4 +361,9 @@ footer .line {
 
 .social-icons a:hover {
   background-color: var(--c-brand);
+}
+
+/* Extra */
+.uxdesign {
+  color: var(--c-brand) !important;
 }
