@@ -9,8 +9,7 @@ The **Elixir** website is a modern and stylish design project, showcasing the co
 - **Responsive Design**: Built with Bootstrap to ensure optimal performance across all devices.
 - **AOS Animations**: Adds smooth, visually pleasing animations for an interactive experience.
 - **Icon Integration**: Leveraged Remixicons to provide a polished and intuitive UI.
-- **Modern Aesthetics**: Combines minimalist design with professional functionality.
-- **Cross-Browser Compatibility**: Fully functional on all major browsers.
+- **Bootstrap Framework**: Used for layout and styling, making the design clean and consistent.
 
 ## 🛠️ Technologies Used
 - **HTML5**: For building the structure of the website.
@@ -24,6 +23,9 @@ You can view a demo of the project by visiting the following link:
 *https://ozanelixir.netlify.app/*
 
 ## Preview
+![1](https://github.com/user-attachments/assets/da93d6fb-8c3b-4642-a781-e0dc3cfd2dbf)
+
+![2](https://github.com/user-attachments/assets/1451bd2d-c9db-4553-b76f-6828db7080a0)
 
 
 ## 📧 Contact
