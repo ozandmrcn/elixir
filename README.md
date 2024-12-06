@@ -16,7 +16,7 @@ The **Elixir** website is a modern and stylish design project, showcasing the co
 - **CSS3**: For custom styles and layout design.
 - **Bootstrap**: For responsive and clean UI components.
 - **AOS**: To integrate smooth and engaging animations.
-- **Remixicons**: For high-quality and versatile icons.
+- **FancyBox**: For creating responsive and customizable lightbox effects for images and media.
 
 ## 🖥️ Demo
 You can view a demo of the project by visiting the following link:  
